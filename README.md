@@ -8,3 +8,6 @@ Please install required dependencies: keras matplotlib scikit-learn yfinance ten
 
 `update_features.py` -> `get_news.py` -> `sentimental_analyze.py` -> `merge.py` -> `stock4.py`
 or run `stock4.py` without updated data.
+
+## Video
+https://vimeo.com/1038515046?share=copy
